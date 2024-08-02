@@ -1,0 +1,15 @@
+body{
+    padding: auto;
+    margin: 0%;
+}
+
+.cabeçalho{
+
+    background-color: antiquewhite;
+    margin: 5%;
+    text-align: center;
+}
+.inf{
+
+    background-color: aquamarine;
+}
