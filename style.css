@@ -2,20 +2,44 @@ body{
     padding: auto;
     margin: 0%;
 }
-
+.tudo{
+    background: linear-gradient(180deg,rgb(70, 107, 42)0%,rgb(60, 87, 40)47%,rgb(0, 0, 0)100%);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
 .cabeçalho{
 
-    background-color: antiquewhite;
+    background-color: rgb(157, 228, 103);
     margin: 5%;
     text-align: center;
+    border-radius: 10px;
 }
-.infs{ background-color: beige;
-margin: 50px;
-border: 12%;
+.infs{ background-color: rgb(157, 228, 103);
+margin: 10px;
+border-radius: 5px;
 padding: auto;
-text-align: left;}
-
-.inf{
-
-    background-color: aquamarine;
+text-align: left;
+font-size: large;
 }
+.começo{
+    background-color: rgb(157, 228, 103);
+    margin: 10px;
+    border-radius: 5px;
+    padding: auto;
+    text-align: left;
+}
+.NOVOS{
+    background-color: rgb(157, 228, 103);
+    margin: 10px;
+    border-radius: 5px;
+    padding: auto;
+    text-align: center;
+}
+.n1{
+    background-color: rgb(157, 228, 103);
+    margin: 10px;
+    border-radius: 5px;
+    padding: auto;
+    text-align: left;
+    font-size: medium;
+}
+
